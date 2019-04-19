@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans" ,sans-serif;
+}
+.header-top{
+    background: #333;
+    color: #ffffff;
+   padding-top: 10px;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+a:hover{
+    color: #fff;
+    text-decoration: none;
+}
+
+ul li{
+    display: inline;
+    padding-top: 25px;
+    padding-right: 20px;
+
+}
+.apply-header{
+    border: 1px solid #fff;
+    border-radius: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+    padding: 4px;
+    font-weight: bold;
+}
+a.apply-header:hover{
+    color: #000000;
+    background-color: white;
+    text-decoration: none;
+}
+
+
